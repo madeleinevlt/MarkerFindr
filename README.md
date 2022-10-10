@@ -7,7 +7,7 @@ Script to analyse Panaroo and iVARCall2 output to find combination of markers.
 ---
 
 ## How to run
-`python3 MarkerFindr.py -f gwas_file -m clusters_tree.xlsx -o test -combination duo`
+`python3 MarkerFindr.py -f variant_file -m clusters_tree.xlsx -o test -combination duo`
 
 ---
 
